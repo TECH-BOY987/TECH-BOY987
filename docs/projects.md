@@ -1,7 +1,7 @@
 # PROJECTS
 
 
-## 1x3 Router design [ [link] ]([https://github.com/cp024s/1x3-Router](https://github.com/TECH-BOY987/codes/tree/main/verilog/router_project))
+## 1x3 Router design [ [link] ](https://github.com/TECH-BOY987/codes/tree/main/verilog/router_project) <br>
 
 1. **Router Architecture and Design:** Develop a concise and efficient 1x3 router architecture using Verilog, outlining the structure of input and output ports and the logic for data packet routing.
 
