@@ -17,6 +17,7 @@
 **Tools :** AMD Vivado, Mentor Graphics ModelSim, Siemens QuestaSim, Intel Quartus <br>
 **Placement & Routing :** Cadence Virtuoso <br>
 **Verification :** UVM, SystemVerilog Assertions, Formal Verification <br>
+**Other Languages :** HTML,CSS,JavaScript
 <br> <br>
 
 # 📊 Stats:
