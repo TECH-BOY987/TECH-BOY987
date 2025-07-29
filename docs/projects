@@ -13,7 +13,7 @@
 
 ## Protocol Verification projects 
 
-1. **AHB to APB BRIDGE:** [ [link] ](https://github.com/cp024s/AHB-APB-bridge) <br>
+1. **AHB to APB BRIDGE:** [ [link] ]() <br>
    The AHB to APB bridge is a crucial component in embedded systems, seamlessly connecting the high-performance Advanced High-Performance Bus (AHB) with the more peripheral-oriented Advanced Peripheral Bus (APB).
    Serving as a translator, it efficiently manages data transfer between these buses, optimizing communication between core processors and peripheral devices.
    This bridge ensures a smooth and synchronized flow of data, enhancing overall system performance and allowing for streamlined integration of diverse hardware components.
