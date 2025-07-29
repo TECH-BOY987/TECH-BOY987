@@ -1,5 +1,6 @@
 # PROJECTS
 
+
 ## 1x3 Router design [ [link] ](https://github.com/cp024s/1x3-Router)
 
 1. **Router Architecture and Design:** Develop a concise and efficient 1x3 router architecture using Verilog, outlining the structure of input and output ports and the logic for data packet routing.
@@ -19,7 +20,7 @@
    This bridge ensures a smooth and synchronized flow of data, enhancing overall system performance and allowing for streamlined integration of diverse hardware components.
    Its role is pivotal in maintaining a balanced and efficient data exchange within complex embedded systems.
 
-2. **UART:** [ [link] ](https://github.com/cp024s/AXI-stream) <br>
+2. **UART:** [ [link] ]( ) <br>
    Performing verification experiments for UART communication protocol, ensuring accurate and reliable serial communication. The experiments cover baud rate settings, start/stop bit handling, and error detection mechanisms, validating the protocol's robustness and compatibility for asynchronous data transmission.
 
 3. **AMBA:**
