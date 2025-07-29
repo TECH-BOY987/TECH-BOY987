@@ -1,7 +1,7 @@
 # PROJECTS
 
 
-## 1x3 Router design [ [link] ](https://github.com/cp024s/1x3-Router)
+## 1x3 Router design [ [link] ]([https://github.com/cp024s/1x3-Router](https://github.com/TECH-BOY987/codes/tree/main/verilog/router_project))
 
 1. **Router Architecture and Design:** Develop a concise and efficient 1x3 router architecture using Verilog, outlining the structure of input and output ports and the logic for data packet routing.
 
@@ -23,5 +23,5 @@
 2. **UART:** [ [link] ]( ) <br>
    Performing verification experiments for UART communication protocol, ensuring accurate and reliable serial communication. The experiments cover baud rate settings, start/stop bit handling, and error detection mechanisms, validating the protocol's robustness and compatibility for asynchronous data transmission.
 
-3. **AMBA:**
+3. **AMBA:** <br>
    Conducting comprehensive verification experiments for the AMBA communication protocol, encompassing AHB and APB bus architectures. The experiments focus on verifying proper data transfer, bus arbitration, and protocol compliance, ensuring seamless integration and communication between AMBA-compliant components.
